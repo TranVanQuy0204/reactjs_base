@@ -1,5 +1,7 @@
 # Reactjs Base
 
-1: router. 
+1. router.
+
   * branch: router_1
-2: Flux. 
+
+2. Flux.
